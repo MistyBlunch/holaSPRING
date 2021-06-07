@@ -1,0 +1,26 @@
+[
+  {
+    "input": "Algoritmo para la resolucion de problemas",
+    "output": "Algorithm for problem solving"
+  },
+  {
+    "input": "gato",
+    "output": "cat"
+  },
+  {
+    "input": "camello periquito caracol jirafa perro mapache conejo gato mosquito polilla mariposa cocodrilo rinoceronte",
+    "output": "camel parakeet snail giraffe raccoon dog rabbit cat mosquito moth butterfly crocodile rhinoceros"
+  },
+  {
+    "input": "taxi monedero censura ahorcar planear calle vino planos lugar indio vestir casco disparo película camión saludar comer",
+    "output": "taxi purse censorship hang plan street wine flat place indian wear helmet shooting movie truck salute eat"
+  },
+  {
+    "input": "sapo zorro abeja bastardo diente elefante gallina herramienta iguana jirafa koala limon mañana niño operación piano queso regla sapo tibutón uva vaca web xilófono yegua",
+    "output": "toad fox bee bastard tooth elephant hen tool iguana giraffe koala lemon morning child operation piano cheese ruler toad shark grape cow web xylophone mare"
+  },
+  {
+    "input": "No sé que escribir, he tratado de buscar en internet para no tener que hacerlo, sin embargo no encontré nada. Mi novio me recomendó un texto que le mandó a alguien, pero me da mucha pereza buscar el texto, así que no le voy a hacer caso. Me acaba de decir que habitualmente no le hago caso... No concuerdo con esta suposición. Y ahora está hablando sobre la pelicula que vimos hace unas horas, parece que a él no le gustó, de hecho, no le gusta casi nada de lo que propongo, ni la música ni las películas ni los animes.",
+    "output": "I don't know what to write, I have tried to search the internet to avoid having to do it, however I did not find anything. My boyfriend recommended a text that he sent to someone, but I'm very lazy to look for the text, so I'm not going to listen to him. He just told me that I usually ignore him ... I do not agree with this assumption. And now he is talking about the movie that we saw a few hours ago, it seems that he did not like it, in fact, he does not like almost anything that I propose, neither the music nor the movies nor the animes."
+  }
+]
