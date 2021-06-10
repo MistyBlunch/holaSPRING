@@ -1,4 +1,4 @@
-package com.utec.software.Lab9.data.model.repositoories;
+package com.utec.software.Lab9.data.model.repositories;
 
 import com.utec.software.Lab9.data.model.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;

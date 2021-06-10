@@ -2,7 +2,7 @@ package com.utec.software.Lab9.controllers;
 
 import com.utec.software.Lab9.data.api.User;
 import com.utec.software.Lab9.data.model.UserEntity;
-import com.utec.software.Lab9.data.model.repositoories.UserRepository;
+import com.utec.software.Lab9.data.model.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
