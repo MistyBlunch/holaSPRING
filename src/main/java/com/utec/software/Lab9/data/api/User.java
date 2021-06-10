@@ -1,4 +1,4 @@
-package com.utec.software.Lab9.data.model;
+package com.utec.software.Lab9.data.api;
 
 public class User {
 	public String username;
